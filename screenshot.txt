@@ -1,0 +1,12 @@
+total 56
+drwxr-xr-x  11 kota  staff   352B  8  9 04:01 .
+drwxr-xr-x  30 kota  staff   960B  8  9 03:32 ..
+drwxr-xr-x   9 kota  staff   288B  8  9 03:39 .git
+-rw-r--r--   1 kota  staff   172B  8  9 03:39 README.md
+-rw-r--r--   1 kota  staff    16B  8  9 03:57 encrypted-nopad.key
+-rw-r--r--   1 kota  staff    32B  8  9 03:55 encrypted.key
+-rw-r--r--   1 kota  staff    16B  8  9 03:56 encrypted15.key
+-rw-r--r--   1 kota  staff    16B  8  9 03:33 plain.key
+-rw-r--r--   1 kota  staff    15B  8  9 03:56 plain15.key
+-rw-r--r--   1 kota  staff     0B  8  9 04:01 screenshot.txt
+-rw-r--r--   1 kota  staff    12B  8  9 03:45 source.txt
